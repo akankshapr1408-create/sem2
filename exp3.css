@@ -1,0 +1,10 @@
+body {
+font-family: Arial, sans-serif;
+text-align: center;
+margin-top: 50px;}
+button {
+padding: 10px 15px;
+margin: 5px;
+cursor: pointer;}
+#para {
+font-size: 18px;}
